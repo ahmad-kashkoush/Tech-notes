@@ -1,0 +1,8 @@
+- If Huge
+	- Hard to reuse
+	- Has too many Probs
+	- Hard low-level complex code to Understand
+- if too small
+	- too high-level abstract
+	- complex codebase
+- so it is better to know a [Splitting Component](Splitting%20Component.md)

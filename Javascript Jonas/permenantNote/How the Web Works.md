@@ -1,0 +1,3 @@
+- It is following [Client Server Architecture](Definitions/Client%20Server%20Architecture.md)
+- [When we access a web server](When%20we%20access%20a%20web%20server.md)
+- 

@@ -1,0 +1,5 @@
+- [wasted renders](wasted%20renders.md)
+    - [passing component, to avoid re-render](passing%20component,%20to%20avoid%20re-render.md)
+- [Memoization](Memoization.md) and application of [memo, useMemo, and useCallback](memo,%20useMemo,%20and%20useCallback.md)
+- [optimize bundle size](optimize%20bundle%20size.md)
+- [Optimization Summary](Optimization%20Summary.png)
