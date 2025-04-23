@@ -1,3 +1,4 @@
+- aka. server component
 - Component [[#runs on server]], rendered on URL change
 - Better for _non-interactive_ components
 - Default in [[RSC]] apps (Acknowledge if  want client)
