@@ -1,0 +1,3 @@
+- aka. React server components
+- Fullstack react architecture where [[Server components]] is integerated to component trees
+    -![[Pasted image 20240818205610.png]]
