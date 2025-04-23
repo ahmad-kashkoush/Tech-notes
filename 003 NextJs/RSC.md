@@ -2,3 +2,8 @@
 - Fullstack react architecture where [[SC]] is integerated to component trees
     -![[Pasted image 20240818205610.png]]
 - [[Rendering Mental Model.png]]
+- [[RSC Rendering]]
+# Sources
+
+- Related: [[Client vs Server rendering]], [[Server-client boundaries]]
+ 

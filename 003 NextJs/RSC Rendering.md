@@ -5,6 +5,9 @@
 2. A Holes reserverd for CC Includes:
     - serialized Props (SC->CC)
     - URL to component code script
+3. [[RSC Payload]] (generated from past 2 steps) will be sent to client
+4. CC rendered to React Elementes
+
 # [[SC]] rendered to react elements
 - contains Dom info
 - Not necessary code for rendering
