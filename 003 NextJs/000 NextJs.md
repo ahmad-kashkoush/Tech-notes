@@ -1,0 +1,4 @@
+- [[Opinionated]] framework built on top of react
+- [[Server side Rendering]]
+- Why next js? [[NextJs key ingredients.png]]
+- [[NextJs App vs Pages router.png]]
