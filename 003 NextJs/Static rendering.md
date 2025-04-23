@@ -1,0 +1,3 @@
+- HTML is generated at built time
+- Optimal & Faster for non-customizable pages because of [[ISR]]
+- Automtically hosted on [[CDN]]
