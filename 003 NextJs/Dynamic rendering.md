@@ -1,0 +1,10 @@
+- HTML is generated at request time
+- triggered when
+    - Data is personalized to the user e.g. Charts
+    - route depends on the request information (e.g. search params)
+- Hosted as a [[Serverless Functions]] 
+- Convert to static when possible 
+	- By [[generateStaticParams()]]
+- Partial Pre-render
+	- Optimized version
+	- static page + dynamic pieces![[Partial pre-redner.png]]
