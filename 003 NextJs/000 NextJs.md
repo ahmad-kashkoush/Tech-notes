@@ -2,3 +2,11 @@
 - [[Server side Rendering]]
 - Why next js? [[NextJs key ingredients.png]]
 - [[NextJs App vs Pages router.png]]
+- [[RSC]]
+- optimization
+    - [[image optimization]]
+- dynamic data can be handled easily because of `params` parameter to page and generate metadata: check [handling dynamic data](https://github.com/ahmad-kashkoush/wild-oasis-website/commit/22043641e1aa7daea9a02a1c845fa4a8794eaabd)
+- [[NextJs caching]]
+- [[Importing server inside client component]]
+- [[Authorization]]
+- [[useOptimistic]]

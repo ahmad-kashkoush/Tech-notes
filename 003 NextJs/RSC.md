@@ -3,7 +3,8 @@
     -![[Pasted image 20240818205610.png]]
 - [[Rendering Mental Model.png]]
 - [[RSC Rendering]]
+
+- Related: [[Rendering timeline]], [[Server-client boundaries]]
 # Sources
 
-- Related: [[Client vs Server rendering]], [[Server-client boundaries]]
  
