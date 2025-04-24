@@ -1,0 +1,2 @@
+- Running application code on the providers (Not the main server)
+- servers are only active when [[Serverless Functions]] are working
