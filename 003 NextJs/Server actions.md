@@ -15,3 +15,6 @@
 	- where exported functions are async actions
 	- can be imported into any component
 2. async function in [[sc]], passed to client
+# Copying endpoint issue
+ - endpoint can be copied from the browser and used to mutate data.
+- Sol: Not allowed Ids should be handled  at the beginning of the server action
