@@ -1,2 +1,2 @@
 - [[Web evolution]]
-- [[React Charactristics]]
+- [[React traits]]
