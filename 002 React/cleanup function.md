@@ -9,6 +9,8 @@
 		- [[#Requests with/without cleanup]]
     - prevent _accumulative event Listener_ 
         - By removing the events on unmount and re-render
+- State values are remembered in cleanup functions despite of component being destoryed, Why?
+    - because of [[closure]] 
 # Requests with/without cleanup
 - Without cleanup request overlab ![[before clean up function.png]]
 - With Cleanup function
