@@ -1,0 +1,4 @@
+- [[Function Side Effects]]  are allowed
+- Solves infinite re-render (similar to [[useState]])
+	- setState only Executed after the render (Based on [[Dependency Array]])
+    - Illustration: ![[Side effect handling with React.png]]
