@@ -2,3 +2,4 @@
 - [[React traits]]
 # Topics
 - [[React Components]]
+- [[Hooks]]
