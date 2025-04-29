@@ -1,0 +1,4 @@
+- aka. Single page application
+- Application executed entirely on Client side
+- Never Reloads
+- ![[SPA flow.png]]
