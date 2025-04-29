@@ -1,0 +1,2 @@
+- A [[State Management]] Hook
+- Update next based on previous (similar to [[useState]])
