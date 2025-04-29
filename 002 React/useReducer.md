@@ -1,2 +1,5 @@
 - A [[State Management]] Hook
 - Update next based on previous (similar to [[useState]])
+- Why use over [[useState]]?
+    - Update multiple states at same time
+    - All states are managed in same place
