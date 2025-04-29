@@ -1,0 +1,7 @@
+- Matching URLs With app components 
+	- e.g. [[Routing example.png]]
+- Used to create [[SPA]]
+- Can navigate app links without reloading
+	- Using `<Link >` and `<NavLink>` 
+    - NavLink mark current page with _active class_
+- [[Nested Routes]]
