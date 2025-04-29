@@ -1,0 +1,3 @@
+- [[Actions]]  returns an object (Accessed with ==useActionData()==)
+- Actions object can return error object
+- Submitted form values can be validated with error object
