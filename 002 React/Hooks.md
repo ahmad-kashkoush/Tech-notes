@@ -3,3 +3,6 @@
 - Register Side effects and manual dom selection
 - [[Hooks Rules]]
 - [[useState]]
+- [[Function Side Effects]] & Data fetching
+    - [[useEffect]]
+    - [[cleanup function]]
