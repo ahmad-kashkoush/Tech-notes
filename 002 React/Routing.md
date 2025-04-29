@@ -5,3 +5,7 @@
 	- Using `<Link >` and `<NavLink>` 
     - NavLink mark current page with _active class_
 - [[Nested Routes]]
+- [[Why store State in URL]]
+- React-Router
+    - [[Loaders]], [[Actions]]
+    - [[react-router Handling Erros]]
