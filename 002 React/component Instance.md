@@ -1,0 +1,2 @@
+- The result from calling [[Component Function]]
+- Returns [[React element]]
