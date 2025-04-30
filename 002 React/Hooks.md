@@ -7,3 +7,8 @@
     - [[useEffect]]
     - [[cleanup function]]
 - [[useRefs]]
+- [[useReducer]]
+- [[useFetcher]]
+- [[useOptimistic]]
+- [[Custom hooks]]
+# Sources

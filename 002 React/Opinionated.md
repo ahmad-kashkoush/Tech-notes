@@ -1,0 +1,2 @@
+- Forces best practices and conventions on you
+- Frontend conventions: file structure, naming conventions, routing ,... etc 

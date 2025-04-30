@@ -1,4 +1,4 @@
-- Userd for
+- Used for
 	- Fetching data from API on routing
 	- Using render as a fetch strategy
 - How to create Loaders
