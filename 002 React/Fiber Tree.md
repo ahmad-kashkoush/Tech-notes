@@ -1,0 +1,9 @@
+- A representaion of componenet instances
+- An internal tree (Mutable Data structure).
+	- Initialized on initial Render
+	- Mutated on re-renders
+	-  Has [[Reconciliation|Reconciler]] for each componenet 
+		- AKA. [[Fiber.png]]
+	- Stores [[props]] and [[State]]
+- Stores  [[Virtual Dom]] Data as Linked list 
+    - Updating component takes o(1)
