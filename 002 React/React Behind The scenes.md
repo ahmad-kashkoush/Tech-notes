@@ -4,7 +4,7 @@
 - [[React Logic]]
 - [[useState#How setState works]]
 - [[Event handling in React]]
-- [[Rendering timeline]]
+- [[Data fetching timeline]]
 - [[RSC Rendering]]
 
 # Sources

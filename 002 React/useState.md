@@ -12,7 +12,7 @@
 	- better performance 
 - Asyncronous nature
     - Creates a pending state transition on mutating state.
-    - New state value is available after rendering
+    - New state value is available **after rendering**
 - Callbacks (as second argument) executed after commiting update.
 - Passing a callback  ensures working with correct previous state:(Code: [[#setState callback]]).
 # Hard code initalization

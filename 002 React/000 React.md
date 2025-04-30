@@ -4,4 +4,12 @@
 - [[React Components]]
 - [[Hooks]]
 - [[Planning React apps]]
+- [[Routing]]
 - [[State Management]] 
+    - [[Redux]],  [[Context API]], and [[React query]]
+- [[React Performance]]
+- Style
+    - [[000 Tailwindcss]]
+    - [[Styled Components Library]]
+- [[React Behind The scenes]]
+- [[React Patterns]]
