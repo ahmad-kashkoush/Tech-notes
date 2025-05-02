@@ -1,5 +1,5 @@
 - Data from Parent, Update only on parent
--  [[Prob Drilling Issue]]
+-  [[Prop Drilling Issue]]
 - Assure all Props has initial values (to be used as **Public API**)
 - Validate Props types using 
 	- Typescript

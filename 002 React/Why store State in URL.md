@@ -1,4 +1,4 @@
-- Makes state Sharable, Bookmarkable (Better UX)
+- Makes [[State]] Sharable, Bookmarkable (Better UX)
 - Allows Back/forward navigation in browser, (Better UX)
 - Enables indexing state by search engines, (Better SEO)
 -  e.g. [[URL State example.png]]
