@@ -1,7 +1,8 @@
-- State Initialization:
+# Explanation
+1. State Initialization:
 	- Can be Hard coded (Code: [[#Hard code initalization]])
 	- Can be computed using _lazy Initializing_ (Code: [[#Lazy initialization]])
-- State Updating: using setState
+2. State Updating: using setState
 	- Check [[#How setState works]].
 - ![[useState - Definning & updaing.png]]
 # How setState works

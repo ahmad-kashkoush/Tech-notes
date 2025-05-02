@@ -1,3 +1,4 @@
+# Explanation
 - Decisions about [[State]] metadata
 1. When to create a state (Or just Derive)
 2. [[Types of state.png]] 

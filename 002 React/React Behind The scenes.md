@@ -1,3 +1,4 @@
+# Topics
 - [[Component, Instance, element]]
 - [[Displaying components on Screen]]
 - [[Type (Symobol)]]

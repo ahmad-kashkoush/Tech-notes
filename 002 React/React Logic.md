@@ -1,3 +1,4 @@
+# Explanation
 - Render Logic
     - Components Must Be Pure(No [[Function Side Effects]])
 	- Same Prop => Same Output

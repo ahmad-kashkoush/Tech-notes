@@ -4,9 +4,10 @@
 - Can navigate app links without reloading
 	- Using `<Link >` and `<NavLink>` 
     - NavLink mark current page with _active class_
-- [[Nested Routes]]
-- [[Why store State in URL]]
-- React-Router
-    - [[Loaders]], [[Actions]]
-    - [[react-router Handling Erros]]
-    - [[useFetcher]]
+# Topics
+1. [[Nested Routes]]
+2. [[Why store State in URL]]
+3. React-Router
+    1. [[Loaders]], [[Actions]]
+    2. [[react-router Handling Erros]]
+    3. [[useFetcher]]
