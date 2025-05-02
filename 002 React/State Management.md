@@ -22,5 +22,7 @@
 
 # Sources
 
-- Udemy React Jonas| Section 7| State fundamentals
-- Udemy React Jonas | Section 18 | Thinking in React: Advanced state management
+- Udemy React Jonas
+	- Section 7| State fundamentals
+- Udemy React Jonas
+	- Section 18 | Thinking in React: Advanced state management
