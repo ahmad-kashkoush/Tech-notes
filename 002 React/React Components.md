@@ -1,3 +1,4 @@
+# Explanation
 - A Building block of UI
 	- Has Data ([[State]], [[props]]), Logic, and appearance ([[state vs props.png]]).
 	- Return [[JSX]]
