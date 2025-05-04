@@ -1,5 +1,4 @@
 # Explanation
-
 - A [[Redux Middleware.png]]
 1. _Redux Middleware_: Code runs
    2. After dispatch function
