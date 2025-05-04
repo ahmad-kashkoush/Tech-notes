@@ -13,5 +13,6 @@
 - [[useOptimistic]]
 - [[Memoization#useMemo]]
 - [[Memoization#useCallback]]
+- [[Connect Redux with React#useSelector]]
 - [[Custom hooks]]
 # Sources

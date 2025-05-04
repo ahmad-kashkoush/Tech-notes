@@ -1,5 +1,5 @@
 # Explanation
-1. State broadcasted  React using Provider (code: [[#Provider component]])
+1. [[State]] broadcasted to React using Provider (code: [[#Provider component]])
 2. Subscripe to store using _useSelector_ (Code: [[#useSelector]])
 ## Provider component
 ```jsx
