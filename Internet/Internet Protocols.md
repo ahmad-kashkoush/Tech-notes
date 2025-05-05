@@ -3,6 +3,7 @@
 # Topics
 1. [[#IP]]
 2. [[#DNS]] 
+3. [[#TCP]]
 # IP
 - (Source: The internet protocols)
 - A unique address to computer or device
@@ -19,5 +20,9 @@
 	- Relies on decentralized system
 	1. Leads to vunerability  to Cyber attack (e.g. DNS Spoofing)
 5. DNS Spoofing: attacker corrupts DNS records to redirect users to a malicious IP address.
+# TCP
+- (Source: Packets, Routes, and Reliability)
+1. Responsible for ensuring Reliable, ordered, error-checked delivery of data
+2. Acknowledges and retransmit missing packets
 # Sources
 1. Extends ![[Internet#Sources]]
